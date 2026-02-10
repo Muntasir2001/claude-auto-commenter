@@ -14,7 +14,7 @@
   <a href="https://discord.gg/vRp5Zh3HGu"><img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord"></a>
 </p>
 
->A marketing automation framework using Claude Skills and Playwright MCP for authentic community engagement. Features personalized comment generation, target community selection, daily tracking, batch execution, and lead identification.
+> A marketing automation framework using Claude Skills and Playwright MCP for authentic community engagement. Features personalized comment generation, target community selection, daily tracking, batch execution, and lead identification.
 
 **Currently supports Reddit** — easily extensible to Twitter, LinkedIn, Discord, and other platforms by adding personalization files.
 
@@ -23,12 +23,13 @@
 ## What is This?
 
 Auto-Commenter is a Claude AI skill that:
-- **Learns your writing style** from your actual comments
-- **Analyzes posts deeply** to understand context and intent (not keyword-based)
-- **Writes authentic comments** that pass 16-point quality checklist
-- **Tracks activity** across subreddits with daily quotas
-- **Identifies leads** automatically based on your product fit
-- **Runs in batch mode** to fill daily quotas across multiple communities
+
+-  **Learns your writing style** from your actual comments
+-  **Analyzes posts deeply** to understand context and intent (not keyword-based)
+-  **Writes authentic comments** that pass 16-point quality checklist
+-  **Tracks activity** across subreddits with daily quotas
+-  **Identifies leads** automatically based on your product fit
+-  **Runs in batch mode** to fill daily quotas across multiple communities
 
 Unlike typical bots that produce obvious automated comments, this system replicates your unique voice and provides genuine value.
 
@@ -47,27 +48,38 @@ npm install
 ### 2. Configure Your Style
 
 **Create personalization file:**
+
 1. Collect 8-10 comments you've written (various topics, lengths, tones)
-2. Ask your LLM: *"Analyze these comments and create a personalization guide"*
+2. Ask your LLM: _"Analyze these comments and create a personalization guide"_
 3. Paste the result into `.claude/skills/reddit-commenter/resources/personalization_reddit.md`
 
 ### 3. Customize Target Communities
 
 **Configure subreddits:**
+
 1. Ask your LLM to analyze your target subreddits
 2. Paste community rules, tone, and good topics into `.claude/skills/reddit-commenter/resources/subreddits.md`
 
 **Optional - Add product info:**
-- If promoting a product, add details to `.claude/skills/reddit-commenter/resources/product.md`
+
+-  If promoting a product, add details to `.claude/skills/reddit-commenter/resources/product.md`
 
 ### 4. Run
 
+**Get claude running on your CLI**
+
+```
+claude --mcp-config .mcp/settings.json
+```
+
 **Single comment:**
+
 ```
 "Write one comment on r/YourSubreddit"
 ```
 
 **Batch mode (fill daily quota):**
+
 ```
 "Fill today's quota"
 ```
@@ -97,33 +109,39 @@ auto-commenter/
 
 ## Key Features
 
-- **Style Personalization** - 16-point checklist ensures natural, human-like comments
-- **Batch Execution** - Automatically fills daily quotas (e.g., 24 comments across 8 subreddits)
-- **Lead Identification** - Tracks potential customers interested in your product
-- **Activity Tracking** - Daily logs with comment links and metrics
-- **Multi-Platform Ready** - Extend to Twitter, LinkedIn, Discord by adding personalization files
-- **Community-Respectful** - Follows rate limits, subreddit rules, and provides real value
+-  **Style Personalization** - 16-point checklist ensures natural, human-like comments
+-  **Batch Execution** - Automatically fills daily quotas (e.g., 24 comments across 8 subreddits)
+-  **Lead Identification** - Tracks potential customers interested in your product
+-  **Activity Tracking** - Daily logs with comment links and metrics
+-  **Multi-Platform Ready** - Extend to Twitter, LinkedIn, Discord by adding personalization files
+-  **Community-Respectful** - Follows rate limits, subreddit rules, and provides real value
 
 ---
 
 ## Usage
 
 ### Single Comment
+
 ```
 "Write one comment on r/ClaudeAI"
 ```
+
 → Analyzes posts, writes in your style, reviews quality, posts, tracks
 
 ### Batch Mode
+
 ```
 "Fill today's quota"
 ```
+
 → Fills all subreddit quotas (default: 3 per subreddit, 5-15 min intervals)
 
 ### Check Activity
+
 ```
 "Show today's Reddit activity"
 ```
+
 → View tracking file: `tracking/reddit/2026-01-30.md`
 
 ---
@@ -143,10 +161,10 @@ Currently supports **Reddit**. To add other platforms:
 
 ## Documentation
 
-- [SETUP.md](SETUP.md) - Complete setup guide
-- [QUICK_REFERENCE.md](QUICK_REFERENCE.md) - Commands and tips
-- [CONTRIBUTING.md](CONTRIBUTING.md) - Contribution guidelines
-- [CHANGES.md](CHANGES.md) - Conversion to open-source summary
+-  [SETUP.md](SETUP.md) - Complete setup guide
+-  [QUICK_REFERENCE.md](QUICK_REFERENCE.md) - Commands and tips
+-  [CONTRIBUTING.md](CONTRIBUTING.md) - Contribution guidelines
+-  [CHANGES.md](CHANGES.md) - Conversion to open-source summary
 
 ---
 
@@ -155,16 +173,18 @@ Currently supports **Reddit**. To add other platforms:
 ⚠️ **This tool enhances genuine engagement, not replaces it.**
 
 **Do:**
-- Provide real value to communities
-- Use your authentic writing style
-- Follow platform rules and rate limits
-- Mix in manual comments
+
+-  Provide real value to communities
+-  Use your authentic writing style
+-  Follow platform rules and rate limits
+-  Mix in manual comments
 
 **Don't:**
-- Spam or deceive communities
-- Claim false experiences
-- Ignore negative feedback
-- Automate 100% of activity
+
+-  Spam or deceive communities
+-  Claim false experiences
+-  Ignore negative feedback
+-  Automate 100% of activity
 
 See [Responsible Use Guidelines](SETUP.md#responsible-use) for details.
 
@@ -182,10 +202,10 @@ MIT License - see [LICENSE](LICENSE)
 
 ## Support
 
-- [Report Bug](../../issues/new?template=bug_report.md)
-- [Request Feature](../../issues/new?template=feature_request.md)
-- [Contribute](CONTRIBUTING.md)
-- [Setup Help](SETUP.md)
+-  [Report Bug](../../issues/new?template=bug_report.md)
+-  [Request Feature](../../issues/new?template=feature_request.md)
+-  [Contribute](CONTRIBUTING.md)
+-  [Setup Help](SETUP.md)
 
 ---
 

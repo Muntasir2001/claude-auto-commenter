@@ -1,0 +1,10 @@
+[    1161ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://www.reddit.com/r/webdev/comments/1r16ll6/dev_feeling_a_bit_out_of_the_loop_any_roadmap_to/:0
+[  166306ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://www.reddit.com/r/webdev/comments/1r16ll6/dev_feeling_a_bit_out_of_the_loop_any_roadmap_to/:0
+[  176248ms] Error: Connection has been terminated.
+    at closed (https://www.redditstatic.com/shreddit/en-US/DqUGX-78jI.js:1:240587)
+    at Object.emit (https://www.redditstatic.com/shreddit/en-US/DqUGX-78jI.js:1:235466)
+    at o.onclose (https://www.redditstatic.com/shreddit/en-US/DqUGX-78jI.js:1:236227)
+[  182392ms] Error: Connection has been terminated.
+    at closed (https://www.redditstatic.com/shreddit/en-US/DqUGX-78jI.js:1:240587)
+    at Object.emit (https://www.redditstatic.com/shreddit/en-US/DqUGX-78jI.js:1:235466)
+    at o.onclose (https://www.redditstatic.com/shreddit/en-US/DqUGX-78jI.js:1:236227)
