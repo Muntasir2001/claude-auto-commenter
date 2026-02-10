@@ -1,0 +1,2 @@
+[    1454ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://www.reddit.com/:0
+[    4192ms] [WARNING] [.WebGL-0x10400439000]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels @ https://www.reddit.com/:0

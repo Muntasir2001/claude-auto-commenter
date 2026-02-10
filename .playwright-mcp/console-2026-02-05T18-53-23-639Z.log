@@ -1,0 +1,5 @@
+[    1790ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://www.reddit.com/r/webdev/comments/1qwscvj/i_made_a_web_agency_and_no_one_believes_i_built/:0
+[  315483ms] Error: Connection has been terminated.
+    at closed (https://www.redditstatic.com/shreddit/en-US/DOIsJhESz2.js:1:243502)
+    at Object.emit (https://www.redditstatic.com/shreddit/en-US/DOIsJhESz2.js:1:238381)
+    at o.onclose (https://www.redditstatic.com/shreddit/en-US/DOIsJhESz2.js:1:239142)

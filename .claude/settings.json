@@ -1,0 +1,35 @@
+{
+	"permissions": {
+		"allow": [
+			"mcp__filesystem__read_file",
+			"mcp__filesystem__list_directory",
+			"mcp__filesystem__search_files",
+			"mcp__filesystem__write_file",
+			"mcp__filesystem__create_directory",
+			"mcp__playwright__browser_navigate",
+			"mcp__playwright__browser_snapshot",
+			"mcp__playwright__browser_click",
+			"mcp__playwright__browser_type",
+			"mcp__playwright__browser_wait_for",
+			"mcp__playwright__browser_press_key",
+			"mcp__brave-search__search"
+		],
+		"deny": [
+			"mcp__filesystem__delete_file",
+			"mcp__github__delete_repository",
+			"mcp__github__create_pull_request"
+		]
+	},
+	"allowedTools": [
+		"Bash(cat *)",
+		"Bash(mkdir *)",
+		"Bash(echo *)",
+		"Bash(ls *)",
+		"Bash(cd *)",
+		"Bash(pwd)",
+		"Read",
+		"Write(*)",
+		"Edit(*)"
+	],
+	"permissionMode": "acceptEdits"
+}

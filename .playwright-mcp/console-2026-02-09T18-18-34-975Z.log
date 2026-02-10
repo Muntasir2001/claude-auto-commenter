@@ -1,0 +1,693 @@
+[     811ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://cs.uicdn.net/avif/ionos-core/Campaigns/TV-2025/Hosting/stage-bg-new-uk-06.png.avif:0
+[     811ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://cs.uicdn.net/avif/ionos-core/Step-Card-Accordion/UK/step-card-accordion-domain-uk.png.avif:0
+[    2726ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://metrics.ionos.uk/id?d_visid_ver=5.5.0&d_fieldgroup=A&mcorgid=AC42148954F5FEDA0A4C98BC%40AdobeOrg&mid=70648430719733805933178846169450990074&d_coppa=true&ts=1770661117441:0
+[    7497ms] [WARNING] AT: request failed Error: Request timed out
+    at e.ontimeout (https://www.ionos.co.uk/js/at_visitor.min.js:2:20624) @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[    7504ms] [WARNING] AT: [page-init] View delivery error Error: Request timed out
+    at e.ontimeout (https://www.ionos.co.uk/js/at_visitor.min.js:2:20624) @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14432242ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://www.ionos.co.uk/shop-api/v1/api/shop/tracking/saleschannel:0
+[14432253ms] [ERROR] Error handling sales channel: TypeError: Failed to fetch (www.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at d (https://www.ionos.co.uk/_next/static/chunks/62d2e5d046a2bfbb.js:1:6517)
+    at https://www.ionos.co.uk/_next/static/chunks/62d2e5d046a2bfbb.js:1:9628
+    at https://www.ionos.co.uk/_next/static/chunks/62d2e5d046a2bfbb.js:1:10282
+    at oJ (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:94157)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110045)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110025)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110025)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110025)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110025)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110025)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110025)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110025)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110025)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110025) @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14440637ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14440637ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14450635ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14450636ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14460637ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14460638ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14470640ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14470641ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14480636ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14480636ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14490655ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14490656ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14500658ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14500658ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14510642ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14510642ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14520642ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14520642ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14530652ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14530653ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14540641ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14540641ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14550640ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14550641ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14560641ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14560641ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14570637ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14570637ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14580637ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14580637ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14590640ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14590641ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14600641ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14600641ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14610640ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14610640ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14620637ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14620638ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14630643ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14630647ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14640638ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14640638ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14650643ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14650644ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14660639ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14660640ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14670639ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14670639ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14680640ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14680642ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14690646ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14690647ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14700642ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14700642ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14710639ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14710640ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14720637ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14720638ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14730643ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14730644ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14740637ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14740637ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14750635ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14750637ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14760635ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14760635ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14770639ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14770640ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14780636ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14780636ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14790634ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14790635ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14800634ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14800635ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14810638ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14810639ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14820636ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14820637ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14830633ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14830634ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14840641ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14840643ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14850639ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14850644ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14860641ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14860642ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14870640ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14870640ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14880634ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14880634ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14890644ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14890644ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14900647ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14900647ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14910649ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14910650ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14920640ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14920641ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14930640ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14930641ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14940633ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14940634ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14950637ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14950638ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14960636ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14960637ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14970639ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14970639ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14980634ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14980634ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[14990640ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[14990641ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15000640ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15000641ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15010641ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15010642ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15020638ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15020639ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15030635ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15030635ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15040636ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15040636ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15050639ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15050640ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15060635ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15060635ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15070634ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15070634ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15080635ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15080636ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15090648ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15090648ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15100632ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15100632ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15110634ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15110635ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15120633ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15120633ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15130645ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15130645ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15140638ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15140639ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15150643ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15150647ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15160639ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15160640ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15170640ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15170640ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15180632ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15180632ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15190636ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15190637ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15200639ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15200639ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15210636ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15210636ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15220633ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15220633ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15230633ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15230633ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15240632ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15240632ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15250639ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15250640ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15260633ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15260634ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15270634ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15270635ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15280634ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15280635ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15290634ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15290635ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15300634ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15300634ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15310645ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15310646ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15320879ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15320895ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15330641ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15330643ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15340639ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15340643ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15350636ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15350637ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15360633ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15360634ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15370633ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15370633ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15380639ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15380641ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15390629ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15390630ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15400634ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15400634ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15410636ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15410636ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15420636ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15420638ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15430633ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15430634ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15440630ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15440631ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15450643ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15450644ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15460631ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15460632ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15470630ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15470631ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15480630ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15480630ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[15490630ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://shop-api.ionos.co.uk/v1/api/shop/session:0
+[15490631ms] [ERROR] There was a problem with the fetch operation: TypeError: Failed to fetch (shop-api.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at createSession (https://www.ionos.co.uk/js/sessions.js:23:2)
+    at https://www.ionos.co.uk/js/sessions.js:67:3 @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[22712533ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://www.ionos.co.uk/shop-api/v1/api/shop/tracking/saleschannel:0
+[22712547ms] [ERROR] Error handling sales channel: TypeError: Failed to fetch (www.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at d (https://www.ionos.co.uk/_next/static/chunks/62d2e5d046a2bfbb.js:1:6517)
+    at https://www.ionos.co.uk/_next/static/chunks/62d2e5d046a2bfbb.js:1:9628
+    at https://www.ionos.co.uk/_next/static/chunks/62d2e5d046a2bfbb.js:1:10282
+    at oJ (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:94157)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110045)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110025)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110025)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110025)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110025)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110025)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110025)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110025)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110025)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110025) @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
+[33542473ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://www.ionos.co.uk/shop-api/v1/api/shop/tracking/saleschannel:0
+[33542481ms] [ERROR] Error handling sales channel: TypeError: Failed to fetch (www.ionos.co.uk)
+    at https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1655:5751
+    at d (https://www.ionos.co.uk/_next/static/chunks/62d2e5d046a2bfbb.js:1:6517)
+    at https://www.ionos.co.uk/_next/static/chunks/62d2e5d046a2bfbb.js:1:9628
+    at https://www.ionos.co.uk/_next/static/chunks/62d2e5d046a2bfbb.js:1:10282
+    at oJ (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:94157)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110045)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110025)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110025)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110025)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110025)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110025)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110025)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110025)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110090)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110025)
+    at uw (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:109929)
+    at uk (https://www.ionos.co.uk/_next/static/chunks/194098810fb2d942.js:1:110025) @ https://www.ionos.co.uk/_next/static/chunks/29dfa2d15afb1c42.js:1647
